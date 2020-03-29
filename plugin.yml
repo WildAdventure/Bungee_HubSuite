@@ -1,0 +1,6 @@
+name: HubSuite
+main: com.gmail.filoghost.hubsuite.HubSuite
+author: filoghost
+version: 1.0
+
+depends: [Yamler, BungeeCommons]
